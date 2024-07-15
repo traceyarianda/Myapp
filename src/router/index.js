@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import RegisterView from '@/views/RegisterView.vue'
 import WelcomePage from '@/views/WelcomePage.vue'
+import GalleryDetailPage from '@/components/GalleryDetailPage.vue';
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -17,6 +18,9 @@ const router = createRouter({
       name:'WelcomePage',
       component:WelcomePage
     },
+
+    { path: '/gallery/:id', component: GalleryDetailPage },
+
     {
       path: '/',
       name: 'home',
