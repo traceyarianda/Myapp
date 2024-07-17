@@ -108,7 +108,7 @@ export default {
     return {
       search: '',
       page: 1,
-      itemsPerPage: 3,
+      itemsPerPage: 2,
       bottomNav: 'home',
       galleries: [
         // Example gallery data
@@ -124,7 +124,8 @@ export default {
         { id: 10, title: 'South Africa', description: 'Description for Gallery 10', coverImage: 'public/Johannesburg.jfif' },
         { id: 11, title: 'London', description: 'Description for Gallery 11', coverImage: 'public/London_Skyline.jpg' },
         { id: 12, title: 'France', description: 'Description for Gallery 12', coverImage: 'public/France.jfif' },
-        { id: 13, title: 'Germany', description: 'Description for Gallery 13', coverImage: 'public/Germany.jfif'}
+        { id: 13, title: 'Germany', description: 'Description for Gallery 13', coverImage: 'public/Germany.jfif'},
+        { id: 14, title: 'USA', description: 'Description for Gallery 14', coverImage: '/public/USA.jfif'}
       ],
     };
   },

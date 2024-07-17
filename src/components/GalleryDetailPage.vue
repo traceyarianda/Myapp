@@ -231,9 +231,31 @@ export default {
           description: 'Description for Gallery 12',
           coverImage: 'public/kittens.jpg',
           images: [
-            { id: 1, title: '', src: '' },
-            { id: 2, title: '', src: '' },
+            { id: 1, title: 'Lyon', src: '  /lyon.jfif' },
+            { id: 2, title: 'The Eiffel Tower', src: '/Eiffel Tower.jfif' },
             { id: 3, title: 'Disneyland Castle', src: '/Disneyland Castle.jfif' },
+          ],
+        },
+          {
+          id: '13',
+          title: 'Germany',
+          description: 'Description for Gallery 12',
+          coverImage: 'public/kittens.jpg',
+          images: [
+            { id: 1, title: 'Germany City', src: '/Germany City.jfif' },
+            { id: 2, title: 'Munich City Center', src: '/City Center.jfif' },
+            { id: 3, title: 'FrankFurt', src: '/FrankFurt.jfif' },
+          ],
+        },
+            {
+          id: '14',
+          title: 'USA',
+          description: 'Description for Gallery 12',
+          coverImage: 'public/kittens.jpg',
+          images: [
+            { id: 1, title: 'Las Vegas', src: '/Las Vegas.jfif' },
+            { id: 2, title: 'New York', src: '/New York.jfif' },
+            { id: 3, title: 'Los Angeles', src: '/LA.jfif' },
           ],
         },
         // Add more sample galleries as needed
