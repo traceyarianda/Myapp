@@ -112,14 +112,15 @@ export default {
       bottomNav: 'home',
       galleries: [
         // Example gallery data
-          { id: 1, title: 'Tanzania', description: 'Description for Gallery 1', coverImage: 'public/Tanzaina.jfif' },
-        { id: 2, title: 'Nairobi', description: 'Description for Gallery 2', coverImage: 'public/Nairobi.jfif' },
+          { id: 1, title: 'Tanzania', description: 'Tanzania is an East African country.', coverImage: 'public/Tanzaina.jfif' },
+        { id: 2, title: 'Nairobi', description: '', coverImage: 'public/Nairobi.jfif' },
+
         { id: 3, title: 'Australia', description: 'Description for Gallery 3', coverImage: 'public/Austrailia.jfif' },
         { id: 4, title: 'Slovenia', description: 'Description for Gallery 4', coverImage: 'public/Slovenia.jfif' },
-        { id: 5, title: 'Mombasa', description: 'Description for Gallery 5', coverImage: 'public/Mombasa.jfif' },
+        { id: 5, title: 'Luxembourg', description: 'Description for Gallery 5', coverImage: '/public/Luxembourg.jfif' },
         { id: 6, title: 'Iceland', description: 'Description for Gallery 6', coverImage: 'public/Iceland.jfif' },
         { id: 7, title: 'Norway', description: 'Description for Gallery 7', coverImage: 'public/Norway.jfif' },
-        { id: 8, title: 'Dubai', description: 'Description for Gallery 8', coverImage: 'public/The desert.jfif' },
+        { id: 8, title: 'UAE', description: 'Description for Gallery 8', coverImage: 'public/The desert.jfif' },
         { id: 9, title: 'Ireland', description: 'Description for Gallery 9', coverImage: 'public/Ireland.jfif' },
         { id: 10, title: 'South Africa', description: 'Description for Gallery 10', coverImage: 'public/Johannesburg.jfif' },
         { id: 11, title: 'London', description: 'Description for Gallery 11', coverImage: 'public/London_Skyline.jpg' },

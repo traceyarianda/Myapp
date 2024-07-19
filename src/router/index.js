@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import RegisterView from '@/views/RegisterView.vue'
 import WelcomePage from '@/views/WelcomePage.vue'
 import GalleryDetailPage from '@/components/GalleryDetailPage.vue';
+import FavoritePage from '@/views/Favorite.vue';
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -12,6 +13,12 @@ const router = createRouter({
       path:'/register',
       name:'register',
       component:RegisterView
+    },
+
+    {
+      path:'/favorites',
+      name:'favorites',
+      component:FavoritePage
     },
     {
       path:'/WelcomePage',
