@@ -13,6 +13,12 @@
 <v-col>
 <v-card>
 <v-img src="public/Las Vegas.jfif"></v-img>
+<v-img src="/public/South africa Luxury Safari.jfif"></v-img>
+<v-img src="/public/Giraffe Center.jfif"></v-img>
+<v-img src="/public/Eiffel Tower.jfif"></v-img>
+<v-img src="/public/SA Culture.jfif"></v-img>
+<v-img src="/public/Lake Bled.jfif"></v-img>
+<v-img src="/public/UAE Culture.jfif"></v-img>
 </v-card>
 </v-col>
 </v-row>

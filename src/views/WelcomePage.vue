@@ -108,7 +108,7 @@ export default {
     return {
       search: '',
       page: 1,
-      itemsPerPage: 2,
+      itemsPerPage: 3,
       bottomNav: 'home',
       galleries: [
         // Example gallery data

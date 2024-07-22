@@ -110,6 +110,8 @@ export default {
             { id: 3, title: 'Tanzania City', src: '/Tanzania City.jfif' },
             { id: 4, title: 'Tanzania Map', src: '/The map of Tanzania.jfif' },
             { id: 5, title: 'Tanzania Flag', src: '/Flag.png' },
+            { id: 6, title: 'Tanzanian Local Food', src: '/Tanzania local food.jfif' },
+            { id: 7, title: 'Tanzania Culture', src: '/TZ Culture.jfif' },
           ],
         },
         {
@@ -123,6 +125,8 @@ export default {
             { id: 3, title: 'Uhuru Park', src: '/Uhuru Park.jfif' },
             { id: 4, title: 'Kenya Map', src: '/The map of Nairobi.jfif' },
             { id: 5, title: 'Kenyan Flag', src: '/flag of Kenya.png' },
+            { id: 6, title: 'Kenyan Local Food', src: '/kenya local food.jfif' },
+            { id: 7, title: 'Kenya Culture', src: '/TZ Culture.jfif' },
           ],
         },
         {
@@ -136,6 +140,8 @@ export default {
             { id: 3, title: 'Austrailia Beach', src: '/Australia Beach.jfif' },
             { id: 4, title: 'Australia Map', src: '/Australia Map.jfif' },
             { id: 5, title: 'Australia Flag', src: '/Austrailia Flag.png' },
+            { id: 6, title: 'Australia Local Food', src: '/Australian Local food.jfif' },
+            { id: 7, title: 'Austrailia Culture', src: '/Australia culture.jfif' },
           ],
         },
          {
@@ -149,6 +155,8 @@ export default {
             { id: 3, title: 'Triglav Lake', src: '/Triglav Lake.jfif' },
             { id: 4, title: 'Slovenia Map', src: '/Slovenia Map.jfif' },
             { id: 5, title: 'Slovenian Flag', src: '/Flag.png' },
+            { id: 5, title: 'Slovenian Food', src: '/Slovenia foos.jfif' },
+            { id: 7, title: 'Slovenia Culture', src: '/Slovenia Culture.jfif' },
           ],
         },
         
@@ -160,9 +168,11 @@ export default {
           images: [
             { id: 1, title: 'Luxembourg Scenery', src: '/Scenery.jfif' },
             { id: 2, title: 'Nature', src: '/Nature.jfif' },
-            { id: 3, title: 'Downtown Luxembourg', src: '' },
-            { id: 4, title: 'Map', src: '' },
+            { id: 3, title: 'Downtown Luxembourg', src: '/Downtown.jfif' },
+            { id: 4, title: 'Map', src: '/Map of Luxembourg.jfif' },
             { id: 5, title: 'Flag', src: '/Lexembourg flag.png' },
+            { id: 6, title: 'Local Food', src: '/Lexembourg food.jfif' },
+             { id: 7, title: 'Lexembourg Culture', src: '/Lexembourg culture.jfif' },
           ],
         },
        
@@ -177,6 +187,8 @@ export default {
             { id: 3, title: 'Ice Cave', src: '/Cave.jfif' },
             { id: 3, title: 'Map', src: '/Map.jfif' },
             { id: 5, title: 'Iceland Flag', src: '/Iceland Fl;ag.png' },
+            { id: 6, title: 'Local Food', src: '/Icelandic food.jfif' },
+            { id: 7, title: 'Iceland Culture', src: '/Icelandic culture.jfif' },
           ],
         },
         
@@ -189,8 +201,10 @@ export default {
             { id: 1, title: 'Norway City', src: '/City.jfif' },
             { id: 2, title: 'Trondelag', src: '/Trondelag.jfif' },
             { id: 3, title: 'River Nidelva', src: '/River Nidelva.jfif' },
-            { id: 3, title: 'Norway Map', src: '/Norway Map.jfif' },
-            { id: 3, title: 'Norway Flag', src: '/Norway Flag.png' },
+            { id: 4, title: 'Norway Map', src: '/Norway Map.jfif' },
+            { id: 5, title: 'Norway Flag', src: '/Norway Flag.png' },
+            { id: 6, title: 'Local Food', src: '/Norwegian food.jfif' },
+            { id: 7, title: 'Norway Culture', src: '/Norwegian culture.jfif' },
           ],
         },
         
@@ -205,6 +219,8 @@ export default {
             { id: 3, title: 'Ferrari World', src: '/Ferrari World.jfif' },
             { id: 4, title: 'UAE Map', src: '/UAE map.jfif' },
             { id: 5, title: 'UAE Flag', src: '/UAE Flag.png' },
+            { id: 5, title: 'Local Food', src: '/UAE Food.jfif' },
+             { id: 7, title: 'UAE Culture', src: '/UAE Culture.jfif' },
           ],
         },
         
@@ -219,6 +235,8 @@ export default {
             { id: 3, title: 'Eyre Square', src: '/Eyre Square.jfif' },
             { id: 4, title: 'Ireland Map', src: '/Ireland map.jfif' },
             { id: 5, title: 'Ireland Flag', src: '/Ireland flag.png' },
+            { id: 5, title: 'Local Food', src: '/iRISH FOOD.jfif' },
+             { id: 7, title: 'Ireland Culture', src: '/Irish.jfif' },
           ],
         },
         {
@@ -232,6 +250,8 @@ export default {
             { id: 3, title: 'Luxury Safari', src: '/South africa Luxury Safari.jfif' },
             { id: 3, title: 'Map', src: '/SA Map.jfif' },
             { id: 3, title: 'Flag', src: '/South Africa Flag.png' },
+            { id: 5, title: 'Local Food', src: '/SA Foods.jfif' },
+             { id: 7, title: 'South Africa Culture', src: '/SA Culture.jfif' },
           ],
         },
         {
@@ -245,6 +265,8 @@ export default {
             { id: 3, title: 'City', src: '/london City.jfif' },
             { id: 4, title: 'Map', src: '/London Map.jfif' },
             { id: 5, title: 'Flag', src: '/LondonFlag.png' },
+            { id: 5, title: 'Local Food', src: '/London food.jfif' },
+            { id: 7, title: 'England Culture', src: '/Culture of england.jfif' },
           ],
         },
         {
@@ -258,6 +280,8 @@ export default {
             { id: 3, title: 'Disneyland Castle', src: '/Disneyland Castle.jfif' },
             { id: 4, title: 'Map', src: '/detailed map.jfif' },
             { id: 5, title: 'Flag', src: '/Flag of france.jfif' },
+            { id: 5, title: 'Local Food', src: '/French.jfif' },
+            { id: 7, title: 'France Culture', src: '/French Culture.jfif' },
           ],
         },
           {
@@ -271,6 +295,8 @@ export default {
             { id: 3, title: 'FrankFurt', src: '/FrankFurt.jfif' },
             { id: 4, title: 'Map', src: '/Germany map.png' },
             { id: 5, title: 'Flag', src: '/Germany Flag.png' },
+            { id: 5, title: 'Local Food', src: '/German food.jfif' },
+            { id: 7, title: 'Germany Culture', src: '/German Culture.jfif' },
           ],
         },
             {
@@ -284,6 +310,8 @@ export default {
             { id: 3, title: 'Los Angeles', src: '/LA.jfif' },
             { id: 4, title: 'Map', src: '/USA map.jfif' },
             { id: 5, title: 'Flag', src: '/USA flag.jfif' },
+            { id: 6, title: 'Local Food', src: '/USA afOOD.jfif' },
+             { id: 7, title: 'USA Culture', src: '/usa CULTURE.jfif' },
           ],
         },
         // Add more sample galleries as needed
